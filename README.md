@@ -1,7 +1,6 @@
 # Automated-Resume-Screening-System
 
-
-    This project is an **Automatic Resume Analysis Tool** that helps HR teams, recruiters, and students analyze resumes.  
+ This project is an **Automatic Resume Analysis Tool** that helps HR teams, recruiters, and students analyze resumes.  
     It extracts text from resumes (`PDF` & `DOCX`), preprocesses using **NLP**, compares against a given Job Description (JD),  and generates an **ATS Score (%)** for ranking candidates.
 
 
