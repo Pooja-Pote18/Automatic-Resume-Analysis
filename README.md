@@ -20,5 +20,6 @@ and generates an **ATS Score (%)** for ranking candidates.
 - Pandas, NumPy (data analysis)
 
 
+▶️ ** Share Linkedin Video Demo**
 
 https://www.linkedin.com/posts/pooja-pote-5a4526331_project-name-resume-analysis-using-ats-ugcPost-7340343112659087360-kK4R?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFOMmcwBvT_W6U2U_mli4PNegGtq-NBSyxk&utm_campaign=whatsapp
