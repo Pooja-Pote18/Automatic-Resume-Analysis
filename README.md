@@ -6,11 +6,11 @@
 
 
 ✅ Features:
-      - Extracts text from resumes (`.pdf`, `.docx`)
-      - Cleans & preprocesses text (stopwords removal, lemmatization)
-      - Extracts keywords using **NLTK**
-      - Calculates **ATS Score (%)** based on JD matching
-      - Ranks candidates & exports results to `CSV`
+- Extracts text from resumes (`.pdf`, `.docx`)
+- Cleans & preprocesses text (stopwords removal, lemmatization)
+- Extracts keywords using **NLTK**
+- Calculates **ATS Score (%)** based on JD matching
+- Ranks candidates & exports results to `CSV`
     
 
 
