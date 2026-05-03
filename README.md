@@ -14,11 +14,11 @@
 
 
 ⚙️ Tech Stack
-      - Python 3.10+
-      - NLTK (NLP processing)
-      - PyMuPDF (PDF extraction)
-      - python-docx (DOCX extraction)
-      - Pandas, NumPy (data analysis)
+ - Python 3.10+
+ - NLTK (NLP processing)
+ - PyMuPDF (PDF extraction)
+ - python-docx (DOCX extraction)
+ - Pandas, NumPy (data analysis)
 
 
 ▶️  **Share Linkedin Video Demo**
