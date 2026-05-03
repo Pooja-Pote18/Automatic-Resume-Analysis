@@ -11,6 +11,7 @@
       - Extracts keywords using **NLTK**
       - Calculates **ATS Score (%)** based on JD matching
       - Ranks candidates & exports results to `CSV`
+    
 
 
 ⚙️ Tech Stack
