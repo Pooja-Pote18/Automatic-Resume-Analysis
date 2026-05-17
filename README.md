@@ -24,14 +24,23 @@
 How it works:
 
   User uploads a resume PDF.
+  
   Recruiter enters job description text.
+  
   System extracts text from the resume.
+  
   NLP preprocessing is applied:
+  
      tokenization
+     
      stop word removal
+     
      stemming
+     
   Resume and job description are converted into vectors.
+ 
   Similarity score is calculated.
+  
   Based on the score, candidates are ranked.
 
 
