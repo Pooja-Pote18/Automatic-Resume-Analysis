@@ -21,31 +21,32 @@
    - Pandas, NumPy (data analysis)
 
 
- How it works:
- 
-   User uploads a resume PDF.
-   
-   Recruiter enters job description text.
-   
-   System extracts text from the resume.
-   
-   NLP preprocessing is applied:
-   
-      tokenization
+      How it works:
       
-      stop word removal
+        User uploads a resume PDF.
+        
+        Recruiter enters job description text.
+        
+        System extracts text from the resume.
+        
+        NLP preprocessing is applied:
+        
+           tokenization
+           
+           stop word removal
+           
+           stemming
+           
+        Resume and job description are converted into vectors.
+       
+        Similarity score is calculated.
+        
+        Based on the score, candidates are ranked.
       
-      stemming
       
-   Resume and job description are converted into vectors.
-  
-   Similarity score is calculated.
-   
-   Based on the score, candidates are ranked.
+      
  
- 
- 
- 
+
  
 
 ▶️  **Share Linkedin Video Demo**
