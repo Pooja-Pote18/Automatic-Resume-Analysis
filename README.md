@@ -21,7 +21,7 @@
    - Pandas, NumPy (data analysis)
 
 
-How it works:
+ ⚙️ How it works:
       
         User uploads a resume PDF.
         
